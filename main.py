@@ -1,3 +1,5 @@
+# Bu Elnur terefinden yazilib
+
 from kitabxana import Kitabxana, Kitab
 
 kitabxana = Kitabxana()
